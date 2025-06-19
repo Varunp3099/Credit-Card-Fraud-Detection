@@ -7,4 +7,4 @@ A machine learning project to detect credit card fraud using Synthetic Minority 
 * XGBoost for robust, scalable fraud classification
 * Evaluation metrics: Accuracy, Precision, Recall, F1-Score, AUC-ROC
 * Confusion matrix and ROC Curve for performance visualization
-* Model tuning with hyperparameter optimization
+
